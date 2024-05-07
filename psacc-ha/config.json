@@ -1,6 +1,6 @@
 {
   "name": "PSA Car Controller JBB",
-  "version": "v3.5.0",
+  "version": "v1.2",
   "slug": "psacc",
   "description": "Control and get information from your PSA car",
   "arch": [
@@ -15,7 +15,7 @@
   "ports": {
     "5000/tcp": null
     },
-  "image": "flobz/psa_car_controller",
+  "image": "JbbDE/psa_car_controller",
   "legacy": true,
   "ingress": true,
   "ingress_port": 5000,
