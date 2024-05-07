@@ -1,5 +1,5 @@
 {
-  "name": "PSA Car Controller",
+  "name": "PSA Car Controller JBB",
   "version": "v3.5.0",
   "slug": "psacc",
   "description": "Control and get information from your PSA car",
@@ -8,7 +8,7 @@
     "armhf",
     "aarch64"
   ],
-  "url": "https://github.com/flobz/psa_car_controller",
+  "url": "https://github.com/JbbDE/psa_car_controller",
   "startup": "application",
   "boot": "auto",
   "ports_description": {"5000/tcp": "Web interface"},
